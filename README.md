@@ -2,7 +2,7 @@
 
 **Project:** A real-time product recommendation system for an e-commerce platform using collaborative filtering and content-based filtering. Implemented as a **Streamlit application**.  
 
-## ** Features**
+## Features
 - **Collaborative Filtering**: Uses KNN-based user similarity for personalized recommendations.  
 - **Content-Based Filtering**: Utilizes product attributes and cosine similarity.  
 - **Efficient Data Handling**: Optimized memory usage with chunk-based data loading.  
