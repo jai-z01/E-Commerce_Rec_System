@@ -1,8 +1,8 @@
 # **Real-Time Product Recommendation System**  
 
-📌 **Project:** A real-time product recommendation system for an e-commerce platform using collaborative filtering and content-based filtering. Implemented as a **Streamlit application**.  
+**Project:** A real-time product recommendation system for an e-commerce platform using collaborative filtering and content-based filtering. Implemented as a **Streamlit application**.  
 
-## **🚀 Features**
+## ** Features**
 - **Collaborative Filtering**: Uses KNN-based user similarity for personalized recommendations.  
 - **Content-Based Filtering**: Utilizes product attributes and cosine similarity.  
 - **Efficient Data Handling**: Optimized memory usage with chunk-based data loading.  
@@ -11,9 +11,9 @@
 ## **📂 Project Structure**
 ```
 📦 project-repo
- ┣ 📜 app.py               # Streamlit app implementation
- ┣ 📜 requirements.txt      # Required dependencies
- ┣ 📜 README.md             # Documentation
+ ┣ 📜 app.py                       # Streamlit app implementation
+ ┣ 📜 requirements.txt             # Required dependencies
+ ┣ 📜 README.md                    # Documentation
 ```
 
 ## **📊 Dataset**
@@ -29,7 +29,7 @@ cd project-repo
 ```
 ### **2️⃣ Set Up Virtual Environment (Recommended)**
 ```sh
-conda create --name recc_system python=3.9
+conda create --name recc_system python=3.11
 conda activate recc_system
 ```
 ### **3️⃣ Install Dependencies**
